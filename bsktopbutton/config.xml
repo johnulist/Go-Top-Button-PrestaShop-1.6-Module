@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>bsktopbutton</name>
+	<displayName><![CDATA[BitSHOK Go Top Button Module]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Adds a go top button to the store.]]></description>
+	<author><![CDATA[BitSHOK]]></author>
+	<tab><![CDATA[other]]></tab>
+	<confirmUninstall>Are you sure you want to uninstall?</confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

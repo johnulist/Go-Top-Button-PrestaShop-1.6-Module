@@ -1,0 +1,29 @@
+#bsktopbutton.text {
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+    background-color: #000;
+    opacity: 0.3;
+    color: #fff;
+    font-size: 12px;
+    padding: 1em;
+    cursor: pointer;
+    display: none;
+}
+
+#bsktopbutton.text:hover,
+#bsktopbutton.image:hover {
+    opacity: 0.6;
+}
+
+#bsktopbutton.image {
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+    background: url("img/arrow_up.png");
+    opacity: 0.3;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    display: none;
+}
